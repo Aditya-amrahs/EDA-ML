@@ -24,9 +24,9 @@ To get started with this project, follow the steps below:
 2. **Navigate to the project directory:**
    ```sh
    cd Python_EDA
-3. **Install the required dependencies:**
+3. **Install the required dependencies and libraries:**
    ```sh
-   pip install -r requirements.txt
+   pip3 install pandas matplotlib seaborn scikit-learn numpy
 4. **Launch Jupyter Notebook**
    ```sh
    jupyter notebook
