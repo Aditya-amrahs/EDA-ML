@@ -1,3 +1,7 @@
 *.tmp 
 .ipynb_checkpoints
 Titanic Case-study.pdf
+venv/ 
+__pycache__/ 
+*.pyc 
+Why_XGB.md
